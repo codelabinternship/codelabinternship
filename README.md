@@ -41,11 +41,10 @@ Code Lab interns can specialize in various domains:
 
 | Area                  | Role Description                                                                 |
 |-----------------------|----------------------------------------------------------------------------------|
-| Frontend Development  | Build stunning UIs and optimize user experience                                 |
-| Backend Development   | Develop scalable APIs and manage server logic                                   |
-| Mobile App Dev        | Create cross-platform mobile applications                                       |
-| Data Science & ML     | Analyze datasets, build models, and drive data-driven decisions                 |
-| Cloud & DevOps        | Deploy apps in the cloud, manage CI/CD pipelines, and automate infrastructure   |
+| Frontend Development  | Build stunning UIs and optimize user experience                                  |
+| Backend Development   | Develop scalable APIs and manage server logic                                    |
+| Data Science & ML     | Analyze datasets, build models, and drive data-driven decisions                  |
+| Cloud & DevOps        | Deploy apps in the cloud, manage CI/CD pipelines, and automate infrastructure    |
 
 Interns will collaborate in teams, contribute to meaningful projects, and learn through code reviews and mentorship.
 
