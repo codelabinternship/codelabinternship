@@ -1,6 +1,6 @@
 # 🚀 Code Lab Internship
 
-![Code Lab Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFoZjh4NXhzeXo5dHNndHdwa3hwcXRqM29hYTV5MXlpcnlwbnB1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tXL4FHPSnVJ0A/giphy.gif)
+![Code Lab Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGswNGlkaXVuMHgzOHNhaGd2M21tdWZyeTdrdWgwNHZvNzh0NnJ3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LS2WElet7iL31i3bxh/giphy.gif)
 
 Welcome to the **Code Lab Internship** – where aspiring developers transform into real-world problem solvers! Whether you're passionate about frontend design, backend logic, mobile apps, data science, or cloud solutions, we’ve created the ideal playground for you to **learn, build, and grow**.
 
