@@ -27,10 +27,6 @@ Our vision is to empower the next generation of tech leaders by cultivating curi
 **Backend**  
 - 🐍 Django REST Framework
 
-**Mobile App Development**  
-- 📱 React Native  
-- 🎯 Flutter
-
 **Other Areas**  
 - 📊 Data Science  
 - 🤖 Machine Learning  
